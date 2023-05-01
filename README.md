@@ -11,6 +11,8 @@ In the wake of the COVID-19 pandemic, the importance of vaccinations has been hi
 
 Creating a flu vaccine provider data library is one way to achieve this goal. In this project, we first utilized data from the CDC, including provider locations, websites, phone numbers, and so on, to create a database of flu vaccination providers in North Carolina. We then developed a user-friendly GUI for the data library, allowing people to easily access information on flu vaccination availability and provider information. By compiling this information into one place, individuals would be able to easily find providers near them, and healthcare organizations would have a more streamlined way to communicate information about the flu vaccine to their patients.
 
+To run the program, do python database/main_GUI.py
+
 # GUI
 #### In the terminal, run `python database/main_GUI.py` to open the GUI.
 <p align="center">
