@@ -16,6 +16,11 @@ To run the program, do python database/main_GUI.py
 ## Tests
 You can find all the test under test folder in the repo. Using pytest following by the name of the test files to run the tests.
 
+## Work Assignment
+Preprocessing: Xiaoquan Liu
+Funtion realization: Yunan Liu
+GUI realization: Yuanjing Zhu
+
 # GUI
 #### In the terminal, run `python database/main_GUI.py` to open the GUI.
 <p align="center">
